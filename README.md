@@ -42,7 +42,7 @@ civicpulse/
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/civicpulse.git
+   git clone https://github.com/ashmithhmaddala/civicpulse.git
    cd civicpulse
 
 2. Set up a virtual environment:
